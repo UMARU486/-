@@ -5,7 +5,7 @@ This is a collection of exercises that have been collected in wangdao 408 exerci
 The goal of this collection is to offer a quick reference for cpp freshmans like me.
 
 If you find an error or think you've a better way to solve some of them, feel
-free to open an issue at <https://github.com/rougier/numpy-100>.
+free to open an issue at <https://github.com/UMARU486/->.
 
 
 #### 1. Import the numpy package under the name `np`
