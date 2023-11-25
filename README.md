@@ -1,6 +1,6 @@
 # thoughts about numpy exercises
 
-####Which are from <https://github.com/rougier/numpy-100>.
+#### Which are from <https://github.com/rougier/numpy-100>.
 
 #### 5. How to get the documentation of the numpy add function from the command line? (★☆☆)
 `hint: np.info`
@@ -9,7 +9,7 @@
 %run `python -c "import numpy; numpy.info(numpy.add)"`
 ```
 
-**用到的时候直接把这行命令复制过去**
+** 用到的时候直接把这行命令复制过去 **
 
 #### 8. Reverse a vector (first element becomes last) (★☆☆)
 `hint: array[::-1]`
