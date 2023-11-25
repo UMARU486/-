@@ -9,7 +9,7 @@
 %run `python -c "import numpy; numpy.info(numpy.add)"`
 ```
 
-** 用到的时候直接把这行命令复制过去 **
+` 用到的时候直接把这行命令复制过去 `
 
 #### 8. Reverse a vector (first element becomes last) (★☆☆)
 `hint: array[::-1]`
